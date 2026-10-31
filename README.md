@@ -6,6 +6,8 @@
 **Studio analog untuk merancang, menyusun, dan memantau kampanye digital.**  
 Bukan dashboard marketing generik: setiap kanal jadi channel mixer, setiap publikasi jadi step sequencer, dan setiap kampanye dimainkan seperti sebuah master tape.
 
+[🚀 **Buka Live Demo**](https://signal-room-henna.vercel.app) · [Lihat Repository](https://github.com/rilians/signal-room)
+
 ![React 18](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=111827&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![Vite](https://img.shields.io/badge/Vite-6-646CFF?logo=vite&logoColor=white&style=for-the-badge)
@@ -173,6 +175,7 @@ Vite menghasilkan file statis ke `dist/`. Folder build, cache, dependency, dan f
 
 ## Deploy ke Vercel
 
+**Live production:** [signal-room-henna.vercel.app](https://signal-room-henna.vercel.app)  
 Proyek dikonfigurasi untuk **Vite** dengan perintah build `npm run build` dan output `dist/`. Untuk deploy dari repository atau terminal:
 
 ```bash
